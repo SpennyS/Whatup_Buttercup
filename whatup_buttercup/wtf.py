@@ -1,5 +1,3 @@
-while (true) 
-{  
-[tool.poetry.scripts]
-my-script = "my_module:main"
-}
+while True: 
+	my-script = "my_module:main"
+
