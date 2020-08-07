@@ -1,5 +1,3 @@
-while True: 
-	def main ( str ):
-		"Hi, I love you!"
-		print str
-		return
+def main():
+	while True:
+		print('watup')
