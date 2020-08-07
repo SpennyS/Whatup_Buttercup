@@ -1,3 +1,5 @@
 while True: 
-	my-script = "my_module:main"
-
+	def main ( str ):
+		"Hi, I love you!"
+		print str
+		return
