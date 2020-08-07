@@ -1,3 +1,3 @@
 def main():
-	while True:
-		print('watup')
+    while True:
+        print('watup')

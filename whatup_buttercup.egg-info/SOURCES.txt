@@ -1,0 +1,9 @@
+README.rst
+setup.py
+whatup_buttercup/__init__.py
+whatup_buttercup/wtf.py
+whatup_buttercup.egg-info/PKG-INFO
+whatup_buttercup.egg-info/SOURCES.txt
+whatup_buttercup.egg-info/dependency_links.txt
+whatup_buttercup.egg-info/entry_points.txt
+whatup_buttercup.egg-info/top_level.txt

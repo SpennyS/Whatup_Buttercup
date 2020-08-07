@@ -1,0 +1,3 @@
+[console_scripts]
+whatup_buttercup = whatup_buttercup.wtf:main
+
